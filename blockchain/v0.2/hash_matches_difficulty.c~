@@ -1,4 +1,4 @@
-#include "blockchain.h"
+include "blockchain.h"
 
 /**
  * get_difficulty - computers number of leading bits in hash

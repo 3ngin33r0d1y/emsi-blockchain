@@ -1,3 +1,0 @@
-
-
-Emsi-blockchain repository project
